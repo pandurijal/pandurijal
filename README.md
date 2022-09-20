@@ -1,6 +1,6 @@
 # Hello, Pandu here 👋
 
-I am a Frontend Engineer living in _Indonesia_ and currently working for [Populix](https://info.populix.co).
+I am a Frontend Engineer living in _Indonesia_.
 
 - 🏠 I’m currently working remotely from home
 - 👯 I’m looking to collaborate on open source projects
